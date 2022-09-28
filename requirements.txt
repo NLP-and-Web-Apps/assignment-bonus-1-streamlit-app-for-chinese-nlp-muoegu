@@ -1,0 +1,5 @@
+streamlit
+TextBlob
+pandas
+altair
+SentimentIntensityAnalyzer
