@@ -3,3 +3,4 @@ TextBlob
 pandas
 altair
 SentimentIntensityAnalyzer
+vaderSentiment
